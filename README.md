@@ -2,7 +2,7 @@
 
 ## WICHTIGE INFORMATION!!:
 ```
-Hier sollen nur Bugs gemeldet werden, Vorschläge bitte ins StateV-Discord!
+Hier sollen nur Bugs gemeldet werden, Vorschläge bitte in den StateV-Discord!
 ```
 
 ## Wie Reporte ich einen Fehler?
@@ -14,3 +14,6 @@ Dort findest du das Template ``Bug Report`` und rechts den Button ``Get Started`
 Du findest dann dort eine Vorlage für deinen Bug-Report. Bitte füllt diesen, so weit es geht, vollständig aus. Gut sind auch immer Videos und Bilder von dem Fehler, sodass wir diesen selbst schnell reproduzieren und beheben können.
 
 Bitte denke auch daran ggf. in der F8 Console die vorhandene Fehlermeldung mit anzugeben. Diese Hilft uns in vielen Fällen weiter.
+
+
+[StateV Discord](https://discord.com/invite/statev)
